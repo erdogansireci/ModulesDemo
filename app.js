@@ -5,6 +5,7 @@
 // utils.sayHi(names.erdogan);
 // utils.sayHi("crn");
 
+console.log("hello");
 
 
 
